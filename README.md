@@ -1,0 +1,2 @@
+# wbsboot
+SpringBoot整合webservice框架CXF，整合的是现在主流的跨语言的一个调度框架。SOAP是基于XML
